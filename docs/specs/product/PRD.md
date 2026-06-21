@@ -1,1 +1,1 @@
-Full updated PRD.md moved to product/
+Full PRD content

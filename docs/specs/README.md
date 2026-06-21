@@ -1,1 +1,1 @@
-Updated structure with product/ and more technical specs
+Updated structure reflecting all current specs
