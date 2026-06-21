@@ -1,1 +1,1 @@
-Rich CLI implementation
+Full rich CLI implementation

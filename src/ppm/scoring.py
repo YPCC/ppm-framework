@@ -1,1 +1,1 @@
-Scoring engine with TCO and reliability formulas
+Full scoring engine with TCO and healthcare reliability

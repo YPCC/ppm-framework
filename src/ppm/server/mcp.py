@@ -1,1 +1,1 @@
-MCP server stub
+Complete MCP server stub

@@ -1,1 +1,1 @@
-High-level agent API
+Complete agent-friendly API
