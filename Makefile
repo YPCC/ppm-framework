@@ -1,1 +1,1 @@
-Makefile with test, lint, demo targets
+Full Makefile
