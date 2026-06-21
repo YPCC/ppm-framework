@@ -1,1 +1,1 @@
-MCP exposure pattern
+MCP server exposure pattern
