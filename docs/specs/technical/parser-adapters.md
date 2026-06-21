@@ -1,1 +1,1 @@
-Full content
+Full parser adapters spec

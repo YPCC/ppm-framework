@@ -1,1 +1,1 @@
-Full content
+Full TCO model spec

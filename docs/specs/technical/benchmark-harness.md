@@ -1,1 +1,1 @@
-Full content
+Full benchmark harness spec

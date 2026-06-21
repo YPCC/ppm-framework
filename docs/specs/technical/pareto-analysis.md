@@ -1,1 +1,1 @@
-Full content
+Full Pareto analysis spec
