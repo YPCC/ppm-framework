@@ -1,0 +1,1 @@
+Pydantic models code (full content would be inserted here)
