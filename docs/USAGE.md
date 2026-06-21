@@ -1,1 +1,1 @@
-Complete usage guide with agent patterns
+Full content

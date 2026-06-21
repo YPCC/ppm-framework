@@ -1,1 +1,1 @@
-Full Product Requirements Document
+Updated PRD with specs reference
