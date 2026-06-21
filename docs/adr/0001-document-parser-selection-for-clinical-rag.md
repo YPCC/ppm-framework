@@ -1,1 +1,1 @@
-Example ADR using PPM output
+Example ADR using PPM output as evidence
