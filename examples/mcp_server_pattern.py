@@ -1,1 +1,1 @@
-MCP server exposure pattern
+Full content
