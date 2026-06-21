@@ -1,1 +1,1 @@
-Updated README with badges and quickstart
+Full current README.md content from local file
